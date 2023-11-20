@@ -1,0 +1,6 @@
+object
+*.a
+*.o
+*.d
+push_swap
+settings.json
